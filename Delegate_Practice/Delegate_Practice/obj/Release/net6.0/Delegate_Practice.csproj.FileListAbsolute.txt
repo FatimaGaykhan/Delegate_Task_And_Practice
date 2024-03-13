@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/bin/Release/net6.0/Delegate_Practice
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/bin/Release/net6.0/Delegate_Practice.deps.json
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/bin/Release/net6.0/Delegate_Practice.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/bin/Release/net6.0/Delegate_Practice.dll
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/bin/Release/net6.0/Delegate_Practice.pdb
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/Delegate_Practice.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/Delegate_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/Delegate_Practice.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/Delegate_Practice.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/Delegate_Practice.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/Delegate_Practice.dll
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/refint/Delegate_Practice.dll
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/Delegate_Practice.pdb
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/Delegate_Practice.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Delegate_Practice/Delegate_Practice/obj/Release/net6.0/ref/Delegate_Practice.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2561588B-0609-4AA1-BADE-95E8A42C866E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Delegate__Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegate_Practice/DelegatePractice.cs">
+    <Files>
+      <File FileName="Delegate_Practice/Program.cs" Line="6" Column="28" />
+      <File FileName="Delegate_Practice/DelegatePractice.cs" Line="57" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegate_Practice" expanded="True">
+            <Node name="Delegate_Practice" expanded="True">
+              <Node name="DelegatePractice.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

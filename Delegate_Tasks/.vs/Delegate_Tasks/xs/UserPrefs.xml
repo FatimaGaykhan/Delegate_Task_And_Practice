@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{0A684E9F-DCA1-498E-A159-83C46D5EEF46}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/Services/PersonService.cs" relfile="Delegate_Tasks/Services/PersonService.cs" line="10" column="1" />
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/Services/BookService.cs" relfile="Delegate_Tasks/Services/BookService.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Delegate__Tasks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegate_Tasks/Controllers/BookController.cs">
+    <Files>
+      <File FileName="Delegate_Tasks/Data/AppDbContext.cs" Line="86" Column="42" />
+      <File FileName="Delegate_Tasks/Program.cs" Line="6" Column="1" />
+      <File FileName="Delegate_Tasks/Models/Book.cs" Line="8" Column="1" />
+      <File FileName="Delegate_Tasks/Services/Interfaces/IBookService.cs" Line="8" Column="34" />
+      <File FileName="Delegate_Tasks/Services/BookService.cs" Line="15" Column="1" />
+      <File FileName="Delegate_Tasks/Controllers/BookController.cs" Line="16" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegate_Tasks" expanded="True">
+            <Node name="Delegate_Tasks" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

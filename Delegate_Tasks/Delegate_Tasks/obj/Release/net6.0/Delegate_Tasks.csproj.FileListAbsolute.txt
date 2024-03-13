@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/bin/Release/net6.0/Delegate_Tasks
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/bin/Release/net6.0/Delegate_Tasks.deps.json
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/bin/Release/net6.0/Delegate_Tasks.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/bin/Release/net6.0/Delegate_Tasks.dll
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/bin/Release/net6.0/Delegate_Tasks.pdb
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/Delegate_Tasks.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/Delegate_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/Delegate_Tasks.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/Delegate_Tasks.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/Delegate_Tasks.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/Delegate_Tasks.dll
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/refint/Delegate_Tasks.dll
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/Delegate_Tasks.pdb
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/Delegate_Tasks.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Delegate_Tasks/Delegate_Tasks/obj/Release/net6.0/ref/Delegate_Tasks.dll
